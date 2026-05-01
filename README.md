@@ -179,6 +179,10 @@ Python app for interactive visualization of AM, FM, and PM modulation techniques
 
 <div align="center">
 
+<video src="pinterestredbull.mp4" autoplay loop muted playsinline width="100%"></video>
+
+<br/>
+
 ![F1](https://img.shields.io/badge/Formula%201-E8002D?style=for-the-badge&logo=f1&logoColor=white)
 ![Football](https://img.shields.io/badge/Football-0a0a1a?style=for-the-badge)
 

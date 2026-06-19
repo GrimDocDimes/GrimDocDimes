@@ -52,11 +52,18 @@
 ![TCL](https://img.shields.io/badge/TCL%20Scripting-E8002D?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-1a0830?style=for-the-badge&logo=gnubash&logoColor=white)
 
+**Cybersecurity & Analysis**
+
+![Network Security](https://img.shields.io/badge/Network%20Security-E8002D?style=for-the-badge)
+![IDS](https://img.shields.io/badge/Intrusion%20Detection-1E1B4B?style=for-the-badge)
+![Binary Exploitation](https://img.shields.io/badge/Binary%20Exploitation-3d0000?style=for-the-badge)
+![pwntools](https://img.shields.io/badge/pwntools-0a0a1a?style=for-the-badge)
+
 </div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Pinned Projects
 
 <table>
 <tr>
@@ -70,6 +77,28 @@ Hardware-accelerated **MobileNetV1** object detection on PYNQ-Z2. Offloads the f
 `C++` `Verilog` `HLS` `PYNQ-Z2` `MobileNetV1`
 
 ⭐ **4**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [NetSentry](https://github.com/GrimDocDimes/NetSentry)
+**Network Security Monitoring & Intrusion Detection**
+
+Cybersecurity project focused on network traffic visibility, suspicious activity detection, and practical defensive monitoring workflows.
+
+`Python` `Cybersecurity` `Network Security` `IDS` `Traffic Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 [Binary-Exploit](https://github.com/GrimDocDimes/Binary-Exploit)
+**Binary Analysis & Exploit Development Assistant**
+
+Command-line binary exploitation assistant built with **pwntools** for stack buffer overflow analysis, crash offset detection, and exploit payload planning.
+
+`Python` `pwntools` `Binary Exploitation` `Buffer Overflow` `Linux`
 
 </td>
 <td width="50%" valign="top">
@@ -95,6 +124,8 @@ Pipelined **Bresenham line engine** in Verilog with AXI4 burst DMA writer and Py
 
 `Verilog` `Python` `AXI4 Burst DMA` `PYNQ-Z2`
 
+⭐ **1**
+
 </td>
 <td width="50%" valign="top">
 
@@ -109,6 +140,13 @@ Fully pipelined AES-128 engine in Verilog on Nexys 4 DDR, deployed via **JTAG-to
 
 </td>
 </tr>
+</table>
+
+---
+
+## 🧩 More Projects
+
+<table>
 <tr>
 <td width="50%" valign="top">
 

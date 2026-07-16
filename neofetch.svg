@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Consolas',monospace" width="880px" height="440px" font-size="14px">
+<style>
+  .key {fill:#ff5c72;}
+  .value {fill:#c9a7ff;}
+  .cc {fill:#4b4b63;}
+  .hdr {fill:#ffffff; font-weight:700;}
+  .ascii {fill:#e8002d;}
+  .ascii2 {fill:#ff6b81;}
+  text, tspan {white-space:pre;}
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0a0a1a"/>
+    <stop offset="55%" stop-color="#150826"/>
+    <stop offset="100%" stop-color="#22040a"/>
+  </linearGradient>
+</defs>
+<rect width="880" height="440" fill="url(#bg)" rx="14"/>
+<rect x="1" y="1" width="878" height="438" fill="none" stroke="#e8002d" stroke-opacity="0.25" rx="14"/>
+
+<text x="30" y="40" xml:space="preserve">
+<tspan x="30"  y="48"  class="ascii">           _\\|/_           </tspan>
+<tspan x="30"  y="66"  class="ascii">          /  |  \          </tspan>
+<tspan x="30"  y="84"  class="ascii2">   __,   /   |   \   ,__   </tspan>
+<tspan x="30"  y="102" class="ascii2">  /   \_/    |    \_/   \  </tspan>
+<tspan x="30"  y="120" class="ascii">  \    /\    |    /\    /  </tspan>
+<tspan x="30"  y="138" class="ascii">---\--/--\---*---/--\--/---</tspan>
+<tspan x="30"  y="156" class="ascii">    \/    \  |  /    \/    </tspan>
+<tspan x="30"  y="174" class="ascii2">    /\    \  |  /    /\    </tspan>
+<tspan x="30"  y="192" class="ascii2">   /  \    \ | /    /  \   </tspan>
+<tspan x="30"  y="210" class="ascii">  '    \_   \|/   _/    '  </tspan>
+<tspan x="30"  y="228" class="ascii">        \_  | |  _/        </tspan>
+<tspan x="30"  y="246" class="ascii">          \_|_|_/          </tspan>
+<tspan x="30"  y="264" class="ascii2">           /   \           </tspan>
+<tspan x="30"  y="282" class="ascii2">          /     \          </tspan>
+<tspan x="30"  y="300" class="ascii">         /       \         </tspan>
+</text>
+
+<text x="330" y="40" xml:space="preserve">
+<tspan x="330" y="40" class="hdr">grimdocdimes@nixos</tspan>
+<tspan x="330" y="40">                                       </tspan>
+<tspan x="330" y="52" class="cc">-----------------------------------------</tspan>
+
+<tspan x="330" y="74"  class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">NixOS (declarative)</tspan>
+<tspan x="330" y="94"  class="cc">. </tspan><tspan class="key">Editor</tspan><tspan class="cc"> ................... </tspan><tspan class="value">VSCodium + Vivado</tspan>
+<tspan x="330" y="114" class="cc">. </tspan><tspan class="key">Pipeline</tspan><tspan class="cc"> ................. </tspan><tspan class="value">RTL -&gt; Synthesis -&gt; GDSII</tspan>
+
+<tspan x="330" y="140" class="key">Languages</tspan>
+<tspan x="330" y="160" class="cc">. </tspan><tspan class="key">Hardware</tspan><tspan class="cc"> ................. </tspan><tspan class="value">Verilog, SystemVerilog, VHDL</tspan>
+<tspan x="330" y="180" class="cc">. </tspan><tspan class="key">Software</tspan><tspan class="cc"> ................. </tspan><tspan class="value">Python, C++, TCL</tspan>
+
+<tspan x="330" y="206" class="key">Bench</tspan>
+<tspan x="330" y="226" class="cc">. </tspan><tspan class="key">Boards</tspan><tspan class="cc"> ................... </tspan><tspan class="value">PYNQ-Z2, Nexys 4 DDR</tspan>
+<tspan x="330" y="246" class="cc">. </tspan><tspan class="key">Toolchain</tspan><tspan class="cc"> ................ </tspan><tspan class="value">Vivado, OpenROAD, KiCad</tspan>
+<tspan x="330" y="266" class="cc">. </tspan><tspan class="key">Protocols</tspan><tspan class="cc"> ................ </tspan><tspan class="value">AXI4, JTAG, SPI, I2C, UART</tspan>
+
+<tspan x="330" y="292" class="cc">-----------------------------------------</tspan>
+<tspan x="330" y="312" class="key">Currently building</tspan>
+<tspan x="330" y="332" class="cc">. </tspan><tspan class="value">RISC-V SoC with a custom hardware GPU</tspan>
+<tspan x="330" y="352" class="cc">. </tspan><tspan class="value">accelerator, driven end-to-end on an FPGA</tspan>
+
+<tspan x="330" y="378" class="cc">-----------------------------------------</tspan>
+<tspan x="330" y="398" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc"> ................... </tspan><tspan class="value">github.com/GrimDocDimes</tspan>
+</text>
+</svg>

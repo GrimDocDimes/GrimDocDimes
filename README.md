@@ -111,11 +111,6 @@ A tamper-proof weighing scale system on ESP32, built to keep trade measurements 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GrimDocDimes&hide_border=true&background=0a0a1a&ring=E8002D&fire=E8002D&currStreakLabel=E8002D&stroke=E8002D)](https://git.io/streak-stats)
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GrimDocDimes&color=e8002d&style=flat-square&label=PROFILE+VIEWS)
 

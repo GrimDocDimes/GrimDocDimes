@@ -14,7 +14,7 @@
 
 <br/>
 
-## 🚀 What I'm building
+## What I'm building
 
 <table>
 <tr>
